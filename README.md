@@ -1,2 +1,2 @@
-# mentirias-FSD
+# mentoriass-FSD
 Repositorio para JS y Branches
