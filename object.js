@@ -1,3 +1,4 @@
+//Objeto
 const user = {
     name: "ane",
     number: 605734503,
@@ -11,6 +12,7 @@ console.log(user.number)
 //Reasignar el valor 
 user.active = false
 
+//Array con objetos
 const newUsers = [
     {
         name: "Flor",
@@ -39,3 +41,4 @@ const foundUser = totalUsers.find((user) => user.name === "Flor" )
 //Para mostrar el número 3
 const numbers = [2, 3, 1]
 const foundNumber = numbers.find((number) => number === 3);
+
